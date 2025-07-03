@@ -1,1 +1,15 @@
+body {
+    background-color: rgb(173, 255, 47);
+    color: rgb(9, 18, 70);
+    font-family: "Oswald", sans-serif;
+    margin: 0px;
 
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    border-bottom: solid 2px rgb(226, 193, 8);
+    padding: 20px;
+    font-size: 32px;
+}
