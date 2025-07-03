@@ -13,3 +13,32 @@ header {
     padding: 20px;
     font-size: 32px;
 }
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+section {
+    background: rgb(237, 243, 159);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-center;
+
+}
+
+.chamada-texto {
+    margin-right: 10%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
